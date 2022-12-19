@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "NodeJS File Manager Task",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freczz/nodejs-file-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "file",
+    "manager"
+  ],
+  "author": "freczz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freczz/nodejs-file-manager/issues"
+  },
+  "homepage": "https://github.com/freczz/nodejs-file-manager#readme"
+}
